@@ -22,11 +22,11 @@ same epitope as pembrolizumab, a different epitope, or design multi-epitope appr
 #### Challenge 1 Files
 - **challenge_1_design_X.fasta**  
 
-  Designed protein sequence(s) in FASTA format
+  Designed antibody sequence in FASTA format
 
 - **challenge_1_design_X_complex.pdb**  
 
-   Predicted 3D structure of the designed protein/complex
+   Predicted 3D structure of the designed antibody
 
 - **challenge_1_design_X_pae.json**  
 
@@ -39,11 +39,11 @@ same epitope as pembrolizumab, a different epitope, or design multi-epitope appr
 #### Challenge 2 Files
 - **challenge_2_design_X.fasta**  
 
-  Designed protein sequence(s) in FASTA format
+  Designed antibody sequence in FASTA format
 
 - **challenge_2_design_X_complex.pdb**  
 
-  Predicted 3D structure of the designed protein/complex
+  Predicted 3D structure of the designed antibody
 
 - **challenge_2_design_X_pae.json**  
 
