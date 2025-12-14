@@ -1,0 +1,2 @@
+team_name,design_id,delta_g,contacts,dockq,iface_plddt,ipsae,cdr_sasa,netsolp,cdr3_identity,anarci_pass,delta_g_score,contacts_score,dockq_score,ipsae_score,iface_plddt_score,cdr_sasa_score,netsolp_score,novelty_score,binding_struct_score,developability_score,novelty_category_score,final_score_10,final_score_100,is_viable,fail_reason
+ALPHA_BENDERS_Challenge1,design_X,-21.1,253,,92.68392727272727,0.299726,6325.0,,80.0,True,10.0,10.0,0.0,0.0,9.268392727272728,10.0,0.0,4.0,6.544732121212121,0.0,4.0,4.726839272727273,47.268392727272726,False,ipSAE < 0.60
